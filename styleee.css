@@ -1,0 +1,11 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+    background-color: hotpink;
+    família de fontes: 'Cinzel Decorativa', cursiva;
+}
+
